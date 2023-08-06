@@ -26,14 +26,12 @@ Visit the live website: [digvijaysinh.tech](https://digvijaysinh.tech/)
 - Seamless scrolling animations for an engaging user experience.
 - Dynamic loading and stunning animations.
 - Dark mode and light mode for comfortable viewing.
-- [Add more features here]
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- [List other technologies used]
 
 ## Installation
 
