@@ -12,7 +12,6 @@ Hey there! Welcome to the repository for my personal portfolio website: [digvija
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
