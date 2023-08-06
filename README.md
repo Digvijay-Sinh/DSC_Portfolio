@@ -1,7 +1,4 @@
-# [Portfolio Website: digvijaysinh.tech](https://digvijaysinh.tech/)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/digvijaysinh.tech)
-![GitHub](https://img.shields.io/github/license/YourUsername/digvijaysinh.tech)
+# [DSC: digvijaysinh.tech](https://digvijaysinh.tech/)
 
 🚀 Excited to Launch My Portfolio Website! 🎉
 
